@@ -1,0 +1,125 @@
+typography_spectrum: 0.5123778074808272
+color:
+  brandStrength: 0.6162583606680947
+  lightness: 0.35950893748431734
+  saturation: 0.8213893025807372
+  rhythmicContrast: 0.66605785490779
+  brandColors:
+    - '#FFFFFF'
+    - '#00E9AD'
+    - '#333132'
+    - '#B5B5B5'
+    - '#84FFD3'
+layout_spectrum: 0.9845606464926744
+name: AI Works
+url: 'https://thegrid.ai/aiworks/'
+navigation:
+  - name: Services
+    id: 3270dd80-0352-45f9-ab2d-3147a15f7852
+    type: content
+  - name: Work
+    id: 2aa8696e-5d62-437b-a3a7-b681e07bac71
+    type: content
+  - name: Sofia AI
+    id: 218ebc5f-ed26-4646-9df3-a09aa923261e
+    type: content
+  - name: Press
+    id: 70433761-9473-456b-bddc-d6b3cde914d0
+    type: content
+  - name: Contact us
+    id: 5f1e8504-681c-4bb8-8b50-bb04472c439a
+    type: content
+title: AI Works
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fy-yXfYonxLo%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dy-yXfYonxLo&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fy-yXfYonxLo%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      datePublished: null
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=y-yXfYonxLo'
+      keywords:
+        - computer vision
+        - artificial intelligence
+        - machine learning
+      related: []
+      author:
+        - name: Hacker.Works
+          url: 'https://www.youtube.com/channel/UC-SIQEUeV42oHdapY5RXHHQ'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Sofia AI Summit Vol1 | Teaser
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=y-yXfYonxLo&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=y-yXfYonxLo&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=y-yXfYonxLo&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=y-yXfYonxLo&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=y-yXfYonxLo&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=y-yXfYonxLo'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=y-yXfYonxLo
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=y-yXfYonxLo
+          package: '544007664'
+          namespace: google
+          type: ios
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      description: >-
+        Sofia's applied AI community is part of the CITY AI community and it
+        brings together the peers around the best use of Machine Learning - Deep
+        Learning - Cognitive - Augmented Intelligence - Natural Language
+        Processing - Neural Networks - computer vision - and more.
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Unleash the power of Artificial Intelligence in Your Organisation
+purpose:
+  - type: internal
+    label: Work
+    item: 2aa8696e-5d62-437b-a3a7-b681e07bac71
+  - type: internal
+    label: Contact us
+    item: 5f1e8504-681c-4bb8-8b50-bb04472c439a
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7d5adab-f765-4e1c-856f-6f1ed725df61.png
+content_rating:
+  adult: false
+author:
+  name: Hacker Works
+  email: hi@hacker.works
+  url: 'http://hacker.works'
+opengraph:
+  type: ''
